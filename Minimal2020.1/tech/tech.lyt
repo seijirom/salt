@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <technology>
- <name>OpenRule1um</name>
- <description/>
+ <name>Minimal2020.1</name>
+ <description>MinimalFab rule for tentative YSS process as of 2020.1 </description>
  <dbu>0.001</dbu>
  <base-path/>
- <original-base-path>/home/seijirom/.klayout/salt/OpenRule1um/tech/tech</original-base-path>
- <layer-properties_file>OpenRule1um.lyp</layer-properties_file>
+ <original-base-path>/home/seijirom/.klayout/salt/Minimal2020.1/tech</original-base-path>
+ <layer-properties_file>YSS.lyp</layer-properties_file>
  <add-other-layers>true</add-other-layers>
  <reader-options>
   <gds2>
